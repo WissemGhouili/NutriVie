@@ -8,7 +8,8 @@ class App {
 
     public function run()
     {
-        header("Location: index.php");
+        echo 'Bonjour a tous';
+        //header("Location: index.php");
     }
 
 
